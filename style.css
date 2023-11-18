@@ -1,0 +1,20 @@
+body {
+    background-image: url(./img/fundo.jpg);
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+input[type="text"],
+button {
+    margin: 10px;
+    padding: 5px;
+}
+
+button {
+    cursor: pointer;
+}
+
+p {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
